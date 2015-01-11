@@ -1,0 +1,28 @@
+{
+  "name": "votingapp",
+  "version": "1.0.0",
+  "description": "Picture voting game with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MimmiTh/votingapp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "voting"
+  ],
+  "author": "Mimmi Thorneus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MimmiTh/votingapp/issues"
+  },
+  "homepage": "https://github.com/MimmiTh/votingapp",
+  "dependencies": {
+    "express": "^4.10.7",
+    "express3-handlebars": "^0.5.2",
+    "nedb": "^1.1.1"
+  }
+}
